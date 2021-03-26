@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[br]
+<hr>
 
 ### Hi there 👋
 
