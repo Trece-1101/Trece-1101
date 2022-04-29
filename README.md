@@ -6,15 +6,14 @@
 - 📫 Me pueden seguir en: [Twitter - @OmarBazziDP](https://twitter.com/OmarBazziDP) y en [Linkedin - Omar Bazzi](https://www.linkedin.com/in/omar-bazzi-sf/).
 - :video_game: Aca pueden ver algunos repos de mis juegos:
   - https://github.com/Trece-1101/Bullet-Rain
+  - https://github.com/Trece-1101/H00K
   - https://github.com/Trece-1101/WinterHell
   - https://github.com/Trece-1101/OdiseaAtlantida
   - https://github.com/Trece-1101/Saltarina
-  - https://github.com/Trece-1101/H00K
   - https://github.com/Trece-1101/BreakAndScore
   - https://github.com/Trece-1101/BrainGame
   - https://github.com/Trece-1101/Asteroids404
   - https://github.com/Trece-1101/MissMan
-
 <hr>
 
 ### Hello World! Mi name is Omar 👋
@@ -25,10 +24,10 @@
 - 📫 How to reach me: [Twitter - @OmarBazziDP](https://twitter.com/OmarBazziDP) and [Linkedin - Omar Bazzi](https://www.linkedin.com/in/omar-bazzi-sf/).
 - :video_game: Here you can see some of my video games repositories:
   - https://github.com/Trece-1101/Bullet-Rain
+  - https://github.com/Trece-1101/H00K
   - https://github.com/Trece-1101/WinterHell
   - https://github.com/Trece-1101/OdiseaAtlantida
   - https://github.com/Trece-1101/Saltarina
-  - https://github.com/Trece-1101/H00K
   - https://github.com/Trece-1101/BreakAndScore
   - https://github.com/Trece-1101/BrainGame
   - https://github.com/Trece-1101/Asteroids404
