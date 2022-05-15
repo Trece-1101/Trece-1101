@@ -1,4 +1,8 @@
-### Hola Mundo! Mi nombre es Omar 👋
+## Hola Mundo! Mi nombre es Omar 👋
+
+Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más hacerlos.
+
+---
 
 <!--- 🔭 Actualmente estoy trabajando en el juego "YVA" que sirve de base a un curso de formacion para introducirse a la creacion de Videojuegos y en proyecto pequeños con [Pilas Engine](https://pilas-engine.com.ar/) que tienen como objetivo enseñar programación de Videojuegos a alumnos de primaria y secundaria.
 - 🌱 Actualmente estoy tratando de aprender nociones de UI/UX con un enfoque mas orientado a la accesibilidad (el futuro es accesible). -->
@@ -14,9 +18,17 @@
   - https://github.com/Trece-1101/BrainGame
   - https://github.com/Trece-1101/Asteroids404
   - https://github.com/Trece-1101/MissMan
-<hr>
 
-### Hello World! Mi name is Omar 👋
+---
+##
+##
+---
+
+## Hello World! Mi name is Omar 👋
+
+I am a Video Game Designer and Programmer who loves to play them but even more to make them.
+
+---
 
 <!---
 - 🔭 I’m currently working on a videogame named "Saltarina" (Bouncy) which is kind of a basis-game for a training course to introduce students to the creation of videogames and in tiny projects with [Pilas Engine](https://pilas-engine.com.ar/) which aim is to teach (videogames) programming to elementary and high school estudents.
