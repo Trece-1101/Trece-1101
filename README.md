@@ -4,10 +4,19 @@ Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más ha
 
 ---
 
+## 📫 Me pueden seguir en
+<a href="https://twitter.com/OmarBazziDP" target="_blank" title="Twitter - @OmarBazziDP">
+<img src="https://user-images.githubusercontent.com/22348284/168504092-b4b07aed-5044-4805-8a85-94ca606dd2fa.svg" alt="Twitter-Logo" style="width:40px;"/>
+</a>
+
+[Twitter - @OmarBazziDP](https://twitter.com/OmarBazziDP)
+
+
+y en [Linkedin - Omar Bazzi](https://www.linkedin.com/in/omar-bazzi-sf/).
+
 <!--- 🔭 Actualmente estoy trabajando en el juego "YVA" que sirve de base a un curso de formacion para introducirse a la creacion de Videojuegos y en proyecto pequeños con [Pilas Engine](https://pilas-engine.com.ar/) que tienen como objetivo enseñar programación de Videojuegos a alumnos de primaria y secundaria.
 - 🌱 Actualmente estoy tratando de aprender nociones de UI/UX con un enfoque mas orientado a la accesibilidad (el futuro es accesible). -->
 
-- 📫 Me pueden seguir en: [Twitter - @OmarBazziDP](https://twitter.com/OmarBazziDP) y en [Linkedin - Omar Bazzi](https://www.linkedin.com/in/omar-bazzi-sf/).
 - :video_game: Aca pueden ver algunos repos de mis juegos:
   - https://github.com/Trece-1101/Bullet-Rain
   - https://github.com/Trece-1101/H00K
