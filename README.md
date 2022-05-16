@@ -5,7 +5,7 @@ Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más ha
 ---
 
 ## 📫 Me pueden seguir en
-<a href="https://twitter.com/OmarBazziDP" target="_blank" title="Twitter - @OmarBazziDP">
+<a href="https://twitter.com/OmarBazziDP" target="_parent" title="Twitter - @OmarBazziDP">
 <img src="https://user-images.githubusercontent.com/22348284/168504092-b4b07aed-5044-4805-8a85-94ca606dd2fa.svg" alt="Twitter-Logo" style="width:40px;"/>
 </a>
 
