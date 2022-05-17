@@ -38,15 +38,18 @@ Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más ha
 
 ---
 
-## :computer: Tecnologías - Lenguajes - Herramientas - Engines
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal-Logo" style="width:10%;"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity-Logo" style="width:10%;"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot-Logo" style="width:10%;"/>
+## :computer: Algunas de las Tecnologías - Lenguajes - Herramientas - Engines que utilizo para hacer juegos
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot-Logo" style="width:10%;"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp-Logo" style="width:10%;"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP-Logo" style="width:10%;"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python-Logo" style="width:10%;"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS-Logo" style="width:10%;"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java-Logo" style="width:10%;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS-Logo" style="width:10%;"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub-Logo" style="width:10%;"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab-Logo" style="width:10%;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab-Logo" style="width:10%;"/>
 
-<img src="" alt="ALGO-Logo" style="width:10%;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VS-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode-Logo" style="width:10%;"/>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="Slack-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira-Logo" style="width:10%;"/>
+
+<!---<img src="" alt="ALGO-Logo" style="width:10%;"/> -->
 
 
 
@@ -91,3 +94,18 @@ I am a Video Game Designer and Programmer who loves to play them but even more t
 - https://github.com/Trece-1101/RotateThatBlock
 - https://github.com/Trece-1101/BrainGame
 - https://github.com/Trece-1101/Asteroids404
+
+---
+
+## :computer: Some Tech - Programming languages - Tools - Engines I use to make games
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot-Logo" style="width:10%;"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS-Logo" style="width:10%;"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab-Logo" style="width:10%;"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VS-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode-Logo" style="width:10%;"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="Slack-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira-Logo" style="width:10%;"/>
+
+<!---<img src="" alt="ALGO-Logo" style="width:10%;"/> -->
