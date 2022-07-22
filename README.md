@@ -7,9 +7,11 @@
 3. [English](#english)
     1. [About me](#aboutMe)
     2. [Reach me on social media](#follow)
-    3. [Some of my reposytories](#myRepos)
+    3. [Some of my repositories](#myRepos)
     4. [Tech I know](#tech)
 
+---
+---
 
 # (Español)<a name="español"></a>
 ## Hola Mundo! Mi nombre es Omar 👋<a name="sobreMi"></a>
