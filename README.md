@@ -1,11 +1,24 @@
-# (Español)
-## Hola Mundo! Mi nombre es Omar 👋
+# Indice / Index
+1. [Español](#español)
+    1. [Sobre mi](#sobreMi)
+    2. [Donde seguirme](#seguirme)
+    3. [Algunos de mis repos](#repos)
+    4. [Tecnologias que conozco](#tecno)
+3. [English](#english)
+    1. [About me](#aboutMe)
+    2. [Reach me on social media](#follow)
+    3. [Some of my reposytories](#myRepos)
+    4. [Tech I know](#tech)
+
+
+# (Español)<a name="español"></a>
+## Hola Mundo! Mi nombre es Omar 👋<a name="sobreMi"></a>
 
 Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más hacerlos.
 
 ---
 
-## 📫 Me pueden seguir en
+## 📫 Me pueden seguir en<a name="seguirme"></a>
 <a href="https://twitter.com/OmarBazziDP" target="_blank" title="Twitter - @OmarBazziDP">
 <img src="https://user-images.githubusercontent.com/22348284/168504092-b4b07aed-5044-4805-8a85-94ca606dd2fa.svg" alt="Twitter-Logo" style="width:60px;"/>
 </a>
@@ -24,7 +37,7 @@ Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más ha
 <!--- 🔭 Actualmente estoy trabajando en el juego "YVA" que sirve de base a un curso de formacion para introducirse a la creacion de Videojuegos y en proyecto pequeños con [Pilas Engine](https://pilas-engine.com.ar/) que tienen como objetivo enseñar programación de Videojuegos a alumnos de primaria y secundaria.
 - 🌱 Actualmente estoy tratando de aprender nociones de UI/UX con un enfoque mas orientado a la accesibilidad (el futuro es accesible). -->
 
-## :video_game: Aca pueden ver algunos repos de mis juegos
+## :video_game: Aca pueden ver algunos repos de mis juegos<a name="repos"></a>
 - https://github.com/Trece-1101/Bullet-Rain
 - https://github.com/Trece-1101/H00K
 - https://github.com/Trece-1101/WinterHell
@@ -39,7 +52,7 @@ Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más ha
 
 ---
 
-## :computer: Algunas de las Tecnologías - Lenguajes - Herramientas - Engines que utilizo para hacer juegos
+## :computer: Algunas de las Tecnologías - Lenguajes - Herramientas - Engines que utilizo para hacer juegos<a name="tecno"></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot-Logo" style="width:10%;"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS-Logo" style="width:10%;"/>
@@ -56,15 +69,15 @@ Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más ha
 
 ##
 ##
-# (English)
+# (English)<a name="english"></a>
 
-## Hello World! Mi name is Omar 👋
+## Hello World! Mi name is Omar 👋<a name="aboutMe"></a>
 
 I am a Video Game Designer and Programmer who loves to play them but even more to make them.
 
 ---
 
-## 📫 How to reach me
+## 📫 How to reach me<a name="follow"></a>
 <a href="https://twitter.com/OmarBazziDP" target="_blank" title="Twitter - @OmarBazziDP">
 <img src="https://user-images.githubusercontent.com/22348284/168504092-b4b07aed-5044-4805-8a85-94ca606dd2fa.svg" alt="Twitter-Logo" style="width:60px;"/>
 </a>
@@ -84,7 +97,7 @@ I am a Video Game Designer and Programmer who loves to play them but even more t
 <!---
 - 🔭 I’m currently working on a videogame named "Saltarina" (Bouncy) which is kind of a basis-game for a training course to introduce students to the creation of videogames and in tiny projects with [Pilas Engine](https://pilas-engine.com.ar/) which aim is to teach (videogames) programming to elementary and high school estudents.
 - 🌱 I’m currently learning notions of UI / UX with a more accessibility-oriented approach (future is accessible).-->
-## :video_game: Here you can see some of my video games repositories
+## :video_game: Here you can see some of my video games repositories<a name="myRepos"></a>
 - https://github.com/Trece-1101/Bullet-Rain
 - https://github.com/Trece-1101/H00K
 - https://github.com/Trece-1101/WinterHell
@@ -99,7 +112,7 @@ I am a Video Game Designer and Programmer who loves to play them but even more t
 
 ---
 
-## :computer: Some Tech - Programming languages - Tools - Engines I use to make games
+## :computer: Some Tech - Programming languages - Tools - Engines I use to make games<a name="tech"></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot-Logo" style="width:10%;"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python-Logo" style="width:10%;"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS-Logo" style="width:10%;"/>
