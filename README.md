@@ -17,6 +17,16 @@
 ## Hola Mundo! Mi nombre es Omar 👋<a name="sobreMi"></a>
 
 Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más hacerlos.
+Tambien creo cursos para que otras personas aprendan a hacer Videojuegos.
+
+Tengo experiencia programando en C#, C++, JS/TS y Python pero puedo hacerlo en cualquier lenguaje que este relativamente bien documentado.
+Tengo experiencia trabajando con los motores más conocidos: Unreal (con C++ y Blueprints), Unity (con C#) y Godot (con GDScript y C#)
+Pero también hice juegos con motores menos conocidos o simplemente con librerías: Pilas (JS), Kontra (JS), Phaser (JS), Cocos2D(C#), PyGame (Python), Scratch
+
+Mi fuerte está en la programación (desde mecánicas, interfaces hasta la inteligencia artificial) y el diseño (desde diseño general hasta diseño de niveles, economía in-game hasta el balance del juego). Pero también tengo experiencia trabajando sobre la UI y algunos apartados artísticos (SFX y VFX sobre todo).
+Si está relacionado a los Videojuegos seguramente algo hice de eso, hasta de Community Manager y Tester me he disfrazado.
+
+Nadie sabe todo, de hecho nadie sabe ni el 10% de “todo”. Lo importante es esforzarse por aprender y no tener miedo de decir “esto no lo sé” y buscar ayuda.
 
 ---
 
@@ -76,6 +86,17 @@ Soy un Diseñador y Programador de Videojuegos que ama jugarlos pero aun más ha
 ## Hello World! Mi name is Omar 👋<a name="aboutMe"></a>
 
 I am a Video Game Designer and Programmer who loves to play them but even more to make them.
+I also make courses, for other people to learn how to make videogames.
+
+I have experience programming in C#, C++, JS/TS and Python but I can code in any language that is relatively "well" documented.
+
+I have experience working with the most popular engines: Unreal (C++ and Blueprints), Unity (C#) and Godot (GDScript and C#)
+But I also made games with lesser known engines or just plain libraries: Pilas Engine (JS), Kontra (JS), Phaser (JS), Cocos2D(C#), PyGame (Python), Scratch
+
+My main role is programming (from mechanics, interfaces, to AI) and game-design (from general design to level design, in-game economy to game balance). But I also have experience working on the UI and some artistic aspects (SFX and VFX mostly).
+If it is related to Videogames, surely I did something of that, even community manager and tester are some of my "rare" roles.
+
+I firmly believe that no one knows everything, in fact, no one knows even 10% of “everything”. The important is to strive to learn and not be afraid to say “I don't know this” and seek help.
 
 ---
 
