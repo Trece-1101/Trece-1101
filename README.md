@@ -52,6 +52,7 @@ Nadie sabe todo, de hecho nadie sabe ni el 10% de “todo”. Lo importante es e
 ## :video_game: Aca pueden ver algunos repos de mis juegos<a name="repos"></a>
 - https://github.com/Trece-1101/Bullet-Rain
 - https://github.com/Trece-1101/H00K
+- https://github.com/Trece-1101/Quizquiz
 - https://github.com/Trece-1101/WinterHell
 - https://github.com/Trece-1101/OdiseaAtlantida
 - https://github.com/Trece-1101/Saltarina
@@ -123,6 +124,7 @@ I firmly believe that no one knows everything, in fact, no one knows even 10% of
 ## :video_game: Here you can see some of my video games repositories<a name="myRepos"></a>
 - https://github.com/Trece-1101/Bullet-Rain
 - https://github.com/Trece-1101/H00K
+- https://github.com/Trece-1101/Quizquiz
 - https://github.com/Trece-1101/WinterHell
 - https://github.com/Trece-1101/OdiseaAtlantida
 - https://github.com/Trece-1101/Saltarina
