@@ -31,10 +31,6 @@ Nadie sabe todo, de hecho nadie sabe ni el 10% de “todo”. Lo importante es e
 ---
 
 ## 📫 Me pueden seguir en<a name="seguirme"></a>
-<a href="https://twitter.com/OmarBazziDP" target="_blank" title="Twitter - @OmarBazziDP">
-<img src="https://user-images.githubusercontent.com/22348284/168504092-b4b07aed-5044-4805-8a85-94ca606dd2fa.svg" alt="Twitter-Logo" style="width:60px;"/>
-</a>
-
 <a href="https://www.linkedin.com/in/omar-bazzi-sf/" target="_blank" title="Linkedin - Omar Bazzi">
 <img src="https://user-images.githubusercontent.com/22348284/168504412-4aec7fcf-563e-4b98-ae06-449c43f68754.svg" alt="Linkdn-Logo" style="width:60px;"/>
 </a>
@@ -49,21 +45,24 @@ Nadie sabe todo, de hecho nadie sabe ni el 10% de “todo”. Lo importante es e
 <!--- 🔭 Actualmente estoy trabajando en el juego "YVA" que sirve de base a un curso de formacion para introducirse a la creacion de Videojuegos y en proyecto pequeños con [Pilas Engine](https://pilas-engine.com.ar/) que tienen como objetivo enseñar programación de Videojuegos a alumnos de primaria y secundaria.
 - 🌱 Actualmente estoy tratando de aprender nociones de UI/UX con un enfoque mas orientado a la accesibilidad (el futuro es accesible). -->
 
-## :video_game: Aca pueden ver algunos repos de mis juegos<a name="repos"></a>
-- https://github.com/Trece-1101/Bullet-Rain
-- https://github.com/Trece-1101/H00K
-- https://github.com/Trece-1101/Quizquiz
-- https://github.com/Trece-1101/AnythingGrowth
-- https://github.com/Trece-1101/WinterHell
-- https://github.com/Trece-1101/OdiseaAtlantida
-- https://github.com/Trece-1101/Saltarina
-- https://github.com/Trece-1101/BreakAndScore
-- https://github.com/Trece-1101/GatoCuantico
-- https://github.com/Trece-1101/RotateThatBlock
-- https://github.com/Trece-1101/BrainGame
-- https://github.com/Trece-1101/Meteoritos_Juego
-- https://github.com/Trece-1101/Asteroids404
-
+## :video_game: Aca pueden ver algunos repos de mis juegos<a name="repos"></a>  
+| Nombre del Proyecto | Descripción | Tech Stack | Repo |
+| :--- | :--- | :--- | :---: |
+| **Bullet Rain** | Bullet hell frenético | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [Ver](https://github.com/Trece-1101/Bullet-Rain) |
+| **H00K** | Plataformero con mecánica de gancho | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [Ver](https://github.com/Trece-1101/H00K) |
+| **Anything Growth** | (Game Jam) Resolver puzzles haciendo crecer/achicando cosas | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [Ver](https://github.com/Trece-1101/AnythingGrowth) |
+| **Saltarina** | Juego de plataformas para enseñar Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [Ver](https://github.com/Trece-1101/Saltarina) |
+| **Break And Score** | (Game Jam) Puzzle fisico | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [Ver](https://github.com/Trece-1101/BreakAndScore) |
+| **Gato Cuántico** | (Game Jam) Plataformero experimental | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [Ver](https://github.com/Trece-1101/GatoCuantico) |
+| **Rotate That Block** | (Gmae Jam) Puzzle de lógica espacial | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [Ver](https://github.com/Trece-1101/RotateThatBlock) |
+| **Meteoritos** | Shmup para enseñar Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [Ver](https://github.com/Trece-1101/Meteoritos_Juego) |
+| **WinterHell** | Terror en primera persona (FPS) | ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-0E1128?style=flat&logo=unrealengine&logoColor=white) | [Ver](https://github.com/Trece-1101/WinterHell) |
+| **Odisea Atlántida** | Shmup de scroll vertical | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | [Ver](https://github.com/Trece-1101/OdiseaAtlantida) |
+| **QuizQuiz** | Juego de preguntas | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | [Ver](https://github.com/Trece-1101/Quizquiz) |
+| **Pong C++** | Clone de Pong en C++ | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Raylib](https://img.shields.io/badge/Raylib-FFFFFF?style=flat&logo=c%2B%2B&logoColor=black) | [Ver](https://github.com/Trece-1101/Pong.CppRaylib) |
+| **Brain Game** | Plataformero roguelike | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-EA9807?style=flat&logo=python&logoColor=white) | [Ver](https://github.com/Trece-1101/BrainGame) |
+| **Py Breakout** | Clon de Breakout en Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-EA9807?style=flat&logo=python&logoColor=white) | [Ver](https://github.com/Trece-1101/Py_Breakout) |
+| **Asteroids404** | (Game Jam) Clone Asteroids en JS | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | [Ver](https://github.com/Trece-1101/Asteroids404) |
 ---
 
 ## :computer: Algunas de las Tecnologías - Lenguajes - Herramientas - Engines que utilizo para hacer juegos<a name="tecno"></a>
@@ -103,10 +102,6 @@ I firmly believe that no one knows everything, in fact, no one knows even 10% of
 ---
 
 ## 📫 How to reach me<a name="follow"></a>
-<a href="https://twitter.com/OmarBazziDP" target="_blank" title="Twitter - @OmarBazziDP">
-<img src="https://user-images.githubusercontent.com/22348284/168504092-b4b07aed-5044-4805-8a85-94ca606dd2fa.svg" alt="Twitter-Logo" style="width:60px;"/>
-</a>
-
 <a href="https://www.linkedin.com/in/omar-bazzi-sf/" target="_blank" title="Linkedin - Omar Bazzi">
 <img src="https://user-images.githubusercontent.com/22348284/168504412-4aec7fcf-563e-4b98-ae06-449c43f68754.svg" alt="Linkdn-Logo" style="width:60px;"/>
 </a>
@@ -123,19 +118,23 @@ I firmly believe that no one knows everything, in fact, no one knows even 10% of
 - 🔭 I’m currently working on a videogame named "Saltarina" (Bouncy) which is kind of a basis-game for a training course to introduce students to the creation of videogames and in tiny projects with [Pilas Engine](https://pilas-engine.com.ar/) which aim is to teach (videogames) programming to elementary and high school estudents.
 - 🌱 I’m currently learning notions of UI / UX with a more accessibility-oriented approach (future is accessible).-->
 ## :video_game: Here you can see some of my video games repositories<a name="myRepos"></a>
-- https://github.com/Trece-1101/Bullet-Rain
-- https://github.com/Trece-1101/H00K
-- https://github.com/Trece-1101/Quizquiz
-- https://github.com/Trece-1101/AnythingGrowth
-- https://github.com/Trece-1101/WinterHell
-- https://github.com/Trece-1101/OdiseaAtlantida
-- https://github.com/Trece-1101/Saltarina
-- https://github.com/Trece-1101/BreakAndScore
-- https://github.com/Trece-1101/GatoCuantico
-- https://github.com/Trece-1101/RotateThatBlock
-- https://github.com/Trece-1101/BrainGame
-- https://github.com/Trece-1101/Meteoritos_Juego
-- https://github.com/Trece-1101/Asteroids404
+| Project Name | Description | Tech Stack | Repo |
+| :--- | :--- | :--- | :---: |
+| **Bullet Rain** | Fast-paced Bullet Hell | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [View](https://github.com/Trece-1101/Bullet-Rain) |
+| **H00K** | Platformer with grappling hook mechanics | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [View](https://github.com/Trece-1101/H00K) |
+| **Anything Growth** | (Game Jam) Solve puzzles by growing/shrinking objects | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [View](https://github.com/Trece-1101/AnythingGrowth) |
+| **Saltarina** | Educational platformer to teach Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [View](https://github.com/Trece-1101/Saltarina) |
+| **Break And Score** | (Game Jam) Physics-based puzzle | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [View](https://github.com/Trece-1101/BreakAndScore) |
+| **Gato Cuántico** | (Game Jam) Experimental platformer | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [View](https://github.com/Trece-1101/GatoCuantico) |
+| **Rotate That Block** | (Game Jam) Spatial logic puzzle | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [View](https://github.com/Trece-1101/RotateThatBlock) |
+| **Meteoritos** | Shmup for teaching Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) | [View](https://github.com/Trece-1101/Meteoritos_Juego) |
+| **WinterHell** | First-person horror (FPS) | ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-0E1128?style=flat&logo=unrealengine&logoColor=white) | [View](https://github.com/Trece-1101/WinterHell) |
+| **Odisea Atlántida** | Vertical scrolling shmup | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | [View](https://github.com/Trece-1101/OdiseaAtlantida) |
+| **QuizQuiz** | Trivia/Quiz game | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | [View](https://github.com/Trece-1101/Quizquiz) |
+| **Pong C++** | C++ Pong clone | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Raylib](https://img.shields.io/badge/Raylib-FFFFFF?style=flat&logo=c%2B%2B&logoColor=black) | [View](https://github.com/Trece-1101/Pong.CppRaylib) |
+| **Brain Game** | Roguelike platformer | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-EA9807?style=flat&logo=python&logoColor=white) | [View](https://github.com/Trece-1101/BrainGame) |
+| **Py Breakout** | Python Breakout clone | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-EA9807?style=flat&logo=python&logoColor=white) | [View](https://github.com/Trece-1101/Py_Breakout) |
+| **Asteroids404** | (Game Jam) JS Asteroids clone | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | [View](https://github.com/Trece-1101/Asteroids404) |
 
 ---
 
